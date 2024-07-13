@@ -1,6 +1,0 @@
-name: Lanang Fajri Ramadhan 
-email: lanangfajri@gmail.com
-subject: lmao
-region: lmao
-message: 
-

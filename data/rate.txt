@@ -1,6 +1,0 @@
-a: Lanang Fajri Ramadhan
-b: beautifull
-c: yes
-d: fat
-e: nice
-
